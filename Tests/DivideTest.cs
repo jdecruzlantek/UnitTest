@@ -1,7 +1,7 @@
 namespace Tests
 {
 	[TestFixture]
-	public class DivideTests
+	public class DivideTest
 	{
 		MathCalc mathCalculations = new MathCalc();
 
